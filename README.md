@@ -17,3 +17,12 @@ arduino and esp8266 based spying robot with android smartphone
 * chasis
 * dc motors
 * jumper wires
+-------------------------------------------------------------------------------------
+# Software
+* arduino IDE
+* google ML app
+* linux os (prefered kali linux)
+-------------------------------------------------------------------------------------
+# kali linux tools used
+* metasploit
+* msfvenom
