@@ -9,3 +9,11 @@ arduino and esp8266 based spying robot with android smartphone
 * wireless android remote control
 * gas detection and alert message
 ------------------------------------------------------------------------------------
+# Hardwares
+* arduino 
+* nodemcu(esp8266)
+* motor driver (l293n)
+* smartphone (low end)
+* chasis
+* dc motors
+* jumper wires
